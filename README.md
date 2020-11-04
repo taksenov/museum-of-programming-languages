@@ -7,7 +7,13 @@
 
 ## Коллекция
 
+### Языки программирования
+
 - **Fortran lang** -- каталог [./collection/fortran](/collection/fortran)
+
+## Книги
+
+- **Математическая теория** -- каталог [./collection/books/theory/](/collection/books/theory/)
 
 ## Социальные сети
 
