@@ -14,6 +14,7 @@
 ## Книги
 
 - **Математическая теория** -- каталог [./collection/books/theory/](/collection/books/theory/)
+- **Языки программирования** -- каталог [./collection/books/langs/](/collection/books/langs/)
 
 ## Социальные сети
 
